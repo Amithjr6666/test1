@@ -1,1 +1,1 @@
-select * from tblu
+select * from tbluser
